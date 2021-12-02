@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PomaProject/static/css/main.462984d0.chunk.css",
+    "main.js": "/PomaProject/static/js/main.f8b54f54.chunk.js",
+    "main.js.map": "/PomaProject/static/js/main.f8b54f54.chunk.js.map",
+    "runtime-main.js": "/PomaProject/static/js/runtime-main.9d6c7768.js",
+    "runtime-main.js.map": "/PomaProject/static/js/runtime-main.9d6c7768.js.map",
+    "static/js/2.b8b4f38b.chunk.js": "/PomaProject/static/js/2.b8b4f38b.chunk.js",
+    "static/js/2.b8b4f38b.chunk.js.map": "/PomaProject/static/js/2.b8b4f38b.chunk.js.map",
+    "static/js/3.7922faea.chunk.js": "/PomaProject/static/js/3.7922faea.chunk.js",
+    "static/js/3.7922faea.chunk.js.map": "/PomaProject/static/js/3.7922faea.chunk.js.map",
+    "index.html": "/PomaProject/index.html",
+    "static/css/main.462984d0.chunk.css.map": "/PomaProject/static/css/main.462984d0.chunk.css.map",
+    "static/js/2.b8b4f38b.chunk.js.LICENSE.txt": "/PomaProject/static/js/2.b8b4f38b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d6c7768.js",
+    "static/js/2.b8b4f38b.chunk.js",
+    "static/css/main.462984d0.chunk.css",
+    "static/js/main.f8b54f54.chunk.js"
+  ]
+}
